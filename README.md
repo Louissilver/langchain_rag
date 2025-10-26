@@ -21,7 +21,7 @@ Este projeto implementa um sistema de Recuperação Aumentada por Geração (RAG
 
 1. Clone este repositório:
    ```sh
-   git clone <url-do-repositorio>
+   git clone https://github.com/Louissilver/langchain_rag
    cd projeto_rag
    ```
 2. Crie um ambiente virtual (opcional, mas recomendado):
