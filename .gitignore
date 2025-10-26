@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+.venv/
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ChromaDB
+chroma/
+
+# PDF/Output/Temp
+*.log
+*.tmp
+
+# Outros arquivos temporários
+*.bak
+*.swp
+*.swo
+~$*
+
+# Ignore arquivos de saída comuns
+output/
+outputs/
