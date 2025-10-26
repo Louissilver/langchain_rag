@@ -51,7 +51,7 @@ Este projeto implementa um sistema de Recuperação Aumentada por Geração (RAG
 3. Informe o caminho do PDF quando solicitado.
 4. Interaja com o assistente digitando perguntas. Digite `sair` para encerrar.
 
-![alt text](image.png)
+![Imagem de exemplo do uso do terminal](files/image.png)
 
 ## Estrutura do Projeto
 
